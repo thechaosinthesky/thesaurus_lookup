@@ -1,8 +1,6 @@
 # Search Recommendation Engine
 
-* Lookup matching terms from a thesaurus and suggest alternate terms
-* Uses recursive functions to find all combinations
-* Alternatively creates an array of combinations of all terms found in a given word
+* Using recursive functions or reduce, create a full list of suggestions that have found synonyms in the term replaced
 * Generates a Set of suggested words with the similar terms replaced
 
 ## Other Challenges:
